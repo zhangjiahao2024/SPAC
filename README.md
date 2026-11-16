@@ -23,6 +23,9 @@ Car-following models:
 Fuel consumption model:
 - VT-CPFM-1
 
+## Supported Dataset
+[Arizona Ring Experimental Dataset (ARED)](https://vanderbilt.app.box.com/s/1oe1g417wtkzkjgtw5y2c1vdx5gcqm85)
+
 ## Installation
 
 Installation instructions will be provided with the source code.
