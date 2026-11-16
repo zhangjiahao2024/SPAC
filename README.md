@@ -32,7 +32,7 @@ Installation instructions will be provided with the source code.
 
 ## Usage
 
-Configuration details and reproducibility instructions will be provided with the implementation.
+Configuration details and reproducibility instructions follow the [REPRODUCIBILITY](REPRODUCIBILITY.md).
 
 ## Citation
 
